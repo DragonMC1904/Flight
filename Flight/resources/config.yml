@@ -1,0 +1,6 @@
+###  Config Flight v1.8.5  ###
+
+Update-Available: true
+No-Permissions: "§cYour Rank is not high enough to enable flight mode. Please upgrade your Rank!"
+Enable-Flight: "§aEnabled Flight Mode!"
+Disable-Flight: "§cDisabled Flight Mode!"
