@@ -1,0 +1,12 @@
+name: Flight
+main: DragonMC1904\Flight
+author: DragonMC1904
+api: [2.0.0, 3.0.0, 4.0.0]
+version: 2.1.5
+depend: 
+- FromAPI
+- EconomyAPI
+
+commands:
+  flight:
+    description: "Allow to player can be flight"
