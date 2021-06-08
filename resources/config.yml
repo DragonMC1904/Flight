@@ -1,0 +1,18 @@
+﻿###  Config Flight v1.8.5  ###
+
+# use-money: For server using money to active Flight (Economy
+# use-pers: For server using permissions to active Flight
+Use-Flight: use-money
+#If your server using permissions to active Flight:
+No-Permissions: "§cYour Rank is not high enough to enable flight mode. Please upgrade your Rank!"
+#If your server using money to active Flight:
+Cost-Fly: 200000
+Not-Enough-Money: "§cYour money is not enough to enable flight mode. You need more money to enable Flight!"
+#On using Flight:
+Enable-Flight: "§aEnabled Flight Mode!"
+Disable-Flight: "§cDisabled Flight Mode!"
+Disable-Flight-In-Creative: "You can only using flight on Survival Mode."
+Disable-Flight-OnJoin: true
+Disable-Flight-OnDamage: true
+Message-Disable-Flight-OnJoin: "Flight has been disabled when you join the game" 
+Message-Disable-Flight-OnDamage: "Flight has been disabled when you take damage"
